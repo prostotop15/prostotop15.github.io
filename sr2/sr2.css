@@ -1,0 +1,14 @@
+.sr{
+width: 100%;
+height: 50px;
+background: linear-gradient(to right,rgb(92, 8, 92) 50%,blue);
+display: flex;
+    align-items: center;
+}
+.menu2{
+ text-decoration: none;
+ margin-left: 15px;
+}
+.menu2{
+color: white;    
+}
